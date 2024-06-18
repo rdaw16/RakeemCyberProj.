@@ -1,8 +1,10 @@
-<h1>Hi, I'm Rakeem! <br/><a href="https://github.com/rdaw16">IT Professional</a>, <a href="https://www.linkedin.com/in/rakeemdawson/">Cybersecurity Influencer</a>
+<h1>Hi, I'm Rakeem! <br/>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Autopy Forensic Lab ](https://github.com/rdaw16/Autopsy-Forensics-Lab)
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
