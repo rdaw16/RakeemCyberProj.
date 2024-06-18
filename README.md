@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rakeem! <br/><a href="https://github.com/rdaws16">IT Professional</a>, <a href="https://www.linkedin.com/in/rakeemdawson/">Cybersecurity Influencer</a>
+<h1>Hi, I'm Rakeem! <br/><a href="https://github.com/rdaw16">IT Professional</a>, <a href="https://www.linkedin.com/in/rakeemdawson/">Cybersecurity Influencer</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
